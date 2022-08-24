@@ -1,4 +1,4 @@
-# TFLChallenege
+# TFLChallenge
 
 ## Dependencies
 * [DotNet](https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/install)
@@ -7,7 +7,7 @@
 
 1. Clone the repo
 ```bash
-git clone https://github.com/jonotko/TFLChallenege.git
+git clone https://github.com/jonotko/TFLChallenge.git
 ```
 2. Build the project 
 
