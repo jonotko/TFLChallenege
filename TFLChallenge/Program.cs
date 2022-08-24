@@ -23,9 +23,6 @@ namespace TFLChallenge
 
             await FetchRoadStatus(road);
 
-
-            //Console.ReadKey();
-
         }
 
         public static async Task FetchRoadStatus(string road)
