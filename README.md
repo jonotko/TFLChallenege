@@ -25,6 +25,14 @@ dotnet build
 dotnet test
 ```
 
-4. Viewing the Code
+4. Run the Project
+   
+   In the root of the TFLChallenge folder run the following command
+   
+```bash
+dotnet run --project ./TFLChallenge/TFLChallenge.csproj
+```
+
+5. Viewing the Code
    [Download visual studio] (https://visualstudio.microsoft.com/)
    Open the .sln file 
