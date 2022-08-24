@@ -34,5 +34,6 @@ dotnet run --project ./TFLChallenge/TFLChallenge.csproj
 ```
 
 5. Viewing the Code
-   [Download visual studio] (https://visualstudio.microsoft.com/)
-   Open the .sln file 
+   [Download visual studio](https://visualstudio.microsoft.com/)
+   
+   Using Visual Studio open the .sln file within the project
